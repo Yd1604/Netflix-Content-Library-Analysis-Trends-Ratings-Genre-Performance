@@ -157,7 +157,7 @@ Increase family-friendly programming to broaden Netflix's audience beyond mature
 
 ## Dashboard preview 
 
-
+![Netflix Dashboard](Netflix analysis dashboard.png)
 
 
 # Skills Demonstrated
