@@ -1,0 +1,251 @@
+show_id	type	title	director	country	date_added	release_year	rating	duration	listed_in	language	imdb_score	popularity	description
+s00001	Movie	Golden Dream 1	J. Lee	India	April 13, 2018	2018	G	110 min	Comedy	Korean	7.2	41	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00002	Movie	Silent City 2	M. Garcia	Germany	June 14, 2020	2002	PG-13	139 min	Documentary	Japanese	7.9	91	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00003	Movie	Hidden Empire 3	J. Lee	Canada	October 16, 2019	2017	PG	129 min	Comedy	English	7	62	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00004	TV Show	Broken Journey 4	R. Kumar	Spain	October 08, 2024	2003	TV-MA	1 Seasons	Horror	French	8	95	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00005	TV Show	Shadow River 5	M. Garcia	Japan	June 22, 2024	2001	TV-MA	2 Seasons	Documentary	English	7	69	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00006	TV Show	Golden River 6	L. Brown	India	October 29, 2019	2006	R	6 Seasons	Action	Korean	8.4	50	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00007	TV Show	Broken Empire 7	A. Smith	Canada	April 04, 2022	2003	TV-MA	4 Seasons	Romance	Japanese	6.6	53	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00008	TV Show	Last River 8	E. Martin	United Kingdom	May 20, 2020	2015	PG	8 Seasons	Action	Hindi	8.5	74	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00009	TV Show	Hidden Dream 9	J. Lee	Germany	July 22, 2024	2008	PG-13	7 Seasons	Comedy	English	8.9	49	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00010	Movie	Last Journey 10	E. Martin	Germany	September 26, 2022	2014	PG	83 min	Drama	French	8.4	83	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00011	TV Show	Last Dream 11	E. Martin	United States	October 25, 2021	1998	G	5 Seasons	Horror	Korean	8.5	72	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00012	Movie	Silent Code 12	M. Garcia	United Kingdom	May 07, 2021	2021	PG	156 min	Action	Korean	9.3	99	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00013	Movie	Shadow City 13	S. Patel	Japan	September 19, 2024	2005	TV-14	137 min	Drama	Hindi	9	100	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00014	Movie	Shadow Code 14	J. Lee	United Kingdom	December 17, 2018	2018	G	137 min	Sci-Fi	Korean	6.2	73	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00015	TV Show	Broken Empire 15	K. Tanaka	South Korea	May 17, 2020	2024	PG-13	4 Seasons	Sci-Fi	English	6.5	44	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00016	TV Show	Silent Dream 16	A. Smith	India	March 28, 2018	2013	G	4 Seasons	Drama	Hindi	5.8	42	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00017	TV Show	Hidden River 17	E. Martin	Canada	October 18, 2018	2011	R	4 Seasons	Action	French	9.2	76	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00018	TV Show	Last Dream 18	R. Kumar	India	September 22, 2020	2020	G	8 Seasons	Thriller	Spanish	7.2	69	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00019	Movie	Broken Empire 19	R. Kumar	Canada	February 08, 2019	1996	TV-14	126 min	Documentary	Korean	7.3	67	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00020	Movie	Shadow Journey 20	R. Kumar	United States	February 14, 2021	2009	G	106 min	Drama	English	9.2	94	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00021	Movie	Last Dream 21	K. Tanaka	United States	November 13, 2019	2008	TV-14	137 min	Thriller	English	9.4	56	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00022	TV Show	Golden Dream 22	L. Brown	Canada	March 14, 2021	2008	TV-MA	8 Seasons	Drama	French	6.8	43	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00023	TV Show	Shadow Code 23	R. Kumar	United Kingdom	August 22, 2023	2024	TV-MA	3 Seasons	Comedy	French	8.9	65	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00024	Movie	Silent City 24	R. Kumar	Spain	May 22, 2024	2002	G	149 min	Romance	Spanish	6.3	85	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00025	TV Show	Golden River 25	L. Brown	France	September 04, 2020	2003	PG	7 Seasons	Comedy	English	7.3	76	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00026	Movie	Silent Empire 26	J. Lee	South Korea	October 28, 2018	2012	TV-MA	102 min	Documentary	Spanish	6.6	68	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00027	TV Show	Broken City 27	J. Lee	Japan	December 07, 2023	1995	TV-MA	5 Seasons	Comedy	French	7.7	57	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00028	TV Show	Golden River 28	L. Brown	Germany	October 13, 2024	2001	PG-13	6 Seasons	Horror	English	5.9	67	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00029	TV Show	Golden River 29	L. Brown	United Kingdom	June 30, 2018	1995	G	6 Seasons	Sci-Fi	Korean	8.3	75	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00030	Movie	Golden Code 30	A. Smith	South Korea	April 04, 2019	1997	R	163 min	Action	Japanese	6	59	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00031	TV Show	Golden River 31	M. Garcia	India	June 13, 2018	2023	PG	6 Seasons	Thriller	Korean	8.5	99	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00032	Movie	Golden Journey 32	A. Smith	United Kingdom	October 28, 2019	2020	G	178 min	Romance	Japanese	8.7	95	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00033	Movie	Broken City 33	K. Tanaka	United States	December 28, 2020	2000	PG-13	175 min	Documentary	Hindi	8.8	69	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00034	TV Show	Golden City 34	M. Garcia	Spain	June 04, 2021	2021	PG	4 Seasons	Horror	English	9.4	57	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00035	TV Show	Shadow City 35	L. Brown	United Kingdom	September 18, 2023	2007	R	6 Seasons	Horror	English	5.9	67	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00036	TV Show	Last Code 36	M. Garcia	Japan	July 08, 2021	2008	TV-MA	2 Seasons	Thriller	English	7.6	91	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00037	Movie	Broken Empire 37	S. Patel	India	January 31, 2022	2008	G	83 min	Horror	Korean	6.7	66	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00038	TV Show	Silent Dream 38	M. Garcia	Spain	July 07, 2022	2017	G	5 Seasons	Thriller	French	8.5	51	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00039	TV Show	Hidden Empire 39	M. Garcia	Spain	July 22, 2022	2012	R	1 Seasons	Romance	Japanese	7.3	83	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00040	Movie	Broken Dream 40	R. Kumar	Japan	September 25, 2023	2010	R	176 min	Romance	English	8.8	88	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00041	Movie	Golden Dream 41	A. Smith	United States	June 25, 2021	2002	TV-14	178 min	Sci-Fi	Korean	8.9	44	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00042	TV Show	Broken River 42	K. Tanaka	France	August 25, 2022	2023	PG-13	4 Seasons	Documentary	Hindi	8.1	40	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00043	Movie	Broken Code 43	E. Martin	United States	October 08, 2022	2002	R	97 min	Documentary	English	7.3	91	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00044	TV Show	Last Code 44	K. Tanaka	Germany	December 16, 2023	2012	PG-13	6 Seasons	Action	French	8.9	68	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00045	TV Show	Silent Journey 45	M. Garcia	Japan	October 09, 2020	2021	PG-13	5 Seasons	Comedy	French	6.6	57	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00046	TV Show	Golden Dream 46	M. Garcia	Spain	August 02, 2021	2023	G	2 Seasons	Action	French	6.4	66	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00047	TV Show	Last City 47	M. Garcia	Spain	September 17, 2021	2012	PG-13	8 Seasons	Drama	Korean	7	40	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00048	TV Show	Last Code 48	M. Garcia	France	May 08, 2021	2019	TV-14	7 Seasons	Horror	Japanese	7.4	64	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00049	TV Show	Last Dream 49	A. Smith	Spain	July 15, 2022	2018	R	3 Seasons	Drama	English	8.1	48	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00050	TV Show	Last Empire 50	M. Garcia	France	January 15, 2020	1996	PG	5 Seasons	Romance	Japanese	6.6	100	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00051	TV Show	Last City 51	A. Smith	South Korea	October 30, 2020	2021	TV-14	2 Seasons	Comedy	French	5.7	41	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00052	Movie	Silent Dream 52	M. Garcia	United Kingdom	March 27, 2020	2021	PG-13	77 min	Comedy	Korean	9.3	69	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00053	TV Show	Golden Empire 53	R. Kumar	Australia	February 19, 2022	2000	TV-MA	2 Seasons	Horror	Korean	8.2	64	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00054	TV Show	Shadow River 54	L. Brown	Australia	March 23, 2020	1997	TV-MA	4 Seasons	Drama	Spanish	7.6	82	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00055	TV Show	Shadow Journey 55	E. Martin	India	October 10, 2018	2011	PG-13	6 Seasons	Romance	French	9.1	69	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00056	Movie	Silent River 56	L. Brown	Australia	November 19, 2022	2000	R	168 min	Sci-Fi	Japanese	7.2	86	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00057	TV Show	Shadow Empire 57	E. Martin	Canada	August 13, 2021	2022	PG-13	4 Seasons	Thriller	Spanish	5.6	94	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00058	TV Show	Hidden Empire 58	S. Patel	Japan	January 15, 2020	2010	R	4 Seasons	Horror	Korean	5.5	100	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00059	Movie	Last Journey 59	M. Garcia	France	December 17, 2018	2002	G	167 min	Sci-Fi	Japanese	8.7	45	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00060	TV Show	Hidden River 60	S. Patel	France	June 26, 2020	2007	R	4 Seasons	Romance	Japanese	9.5	75	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00061	TV Show	Hidden Empire 61	L. Brown	Canada	December 12, 2021	2017	TV-MA	8 Seasons	Documentary	Spanish	6	74	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00062	Movie	Last Empire 62	L. Brown	India	February 24, 2020	2001	TV-14	169 min	Horror	Hindi	6.9	59	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00063	Movie	Shadow City 63	L. Brown	United Kingdom	December 28, 2023	1999	G	110 min	Sci-Fi	English	9	76	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00064	TV Show	Hidden Dream 64	A. Smith	Japan	April 07, 2023	2010	PG-13	8 Seasons	Comedy	English	7.1	44	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00065	Movie	Silent Empire 65	R. Kumar	Canada	September 14, 2019	1999	TV-MA	178 min	Thriller	Korean	7.9	79	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00066	Movie	Last Empire 66	K. Tanaka	Japan	November 11, 2023	2007	R	132 min	Drama	Korean	9.3	46	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00067	Movie	Shadow Dream 67	M. Garcia	United Kingdom	May 14, 2020	2003	R	159 min	Comedy	Hindi	5.5	68	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00068	TV Show	Hidden River 68	L. Brown	France	April 07, 2021	1996	TV-MA	4 Seasons	Documentary	Spanish	8.7	80	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00069	Movie	Golden River 69	J. Lee	Japan	October 08, 2022	1998	TV-14	144 min	Comedy	English	6.2	59	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00070	TV Show	Broken Empire 70	K. Tanaka	Japan	December 04, 2022	1998	R	8 Seasons	Sci-Fi	Japanese	5.8	42	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00071	TV Show	Shadow City 71	M. Garcia	Australia	August 13, 2021	2014	R	5 Seasons	Drama	French	8.8	76	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00072	Movie	Broken Journey 72	L. Brown	United Kingdom	December 19, 2019	2010	R	141 min	Thriller	French	8.8	45	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00073	TV Show	Hidden River 73	R. Kumar	United Kingdom	November 26, 2021	2008	PG	6 Seasons	Thriller	French	7.5	82	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00074	TV Show	Shadow Empire 74	L. Brown	South Korea	March 03, 2024	1996	TV-MA	8 Seasons	Thriller	Korean	8.8	40	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00075	TV Show	Silent Empire 75	E. Martin	France	August 20, 2022	1996	TV-MA	4 Seasons	Documentary	Spanish	7.7	99	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00076	TV Show	Shadow City 76	M. Garcia	United Kingdom	November 30, 2022	2023	PG	8 Seasons	Drama	Korean	7.1	54	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00077	Movie	Golden Journey 77	L. Brown	Germany	March 06, 2023	1998	G	157 min	Horror	Japanese	8.8	70	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00078	Movie	Last Dream 78	J. Lee	India	February 14, 2023	2012	PG	93 min	Thriller	Spanish	9.2	72	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00079	TV Show	Silent Code 79	E. Martin	United Kingdom	January 11, 2018	2004	PG-13	5 Seasons	Sci-Fi	Spanish	6.8	88	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00080	TV Show	Golden River 80	M. Garcia	Australia	February 09, 2023	2024	PG-13	6 Seasons	Documentary	Japanese	5.7	87	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00081	TV Show	Last City 81	J. Lee	Germany	April 11, 2022	2007	R	3 Seasons	Romance	English	9	68	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00082	Movie	Shadow River 82	J. Lee	Spain	November 25, 2023	2024	G	133 min	Action	English	7.4	56	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00083	TV Show	Hidden River 83	K. Tanaka	South Korea	June 17, 2022	2015	G	2 Seasons	Sci-Fi	Korean	5.6	44	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00084	Movie	Shadow Journey 84	R. Kumar	India	March 23, 2021	2002	PG-13	170 min	Action	French	6.7	41	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00085	Movie	Hidden Empire 85	S. Patel	Spain	August 21, 2021	2020	TV-14	82 min	Documentary	Korean	7.1	83	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00086	Movie	Silent Journey 86	M. Garcia	France	November 28, 2019	2000	R	85 min	Action	Hindi	7.3	56	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00087	TV Show	Last Empire 87	J. Lee	India	November 11, 2020	2016	PG-13	1 Seasons	Romance	Korean	6.7	67	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00088	TV Show	Golden Journey 88	E. Martin	India	February 15, 2023	2022	TV-14	5 Seasons	Thriller	Korean	6.9	58	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00089	TV Show	Hidden City 89	A. Smith	Australia	March 31, 2018	2021	G	7 Seasons	Sci-Fi	Spanish	8.6	54	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00090	TV Show	Silent Empire 90	J. Lee	India	June 16, 2020	2015	G	4 Seasons	Drama	Spanish	8.7	42	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00091	TV Show	Hidden River 91	K. Tanaka	United Kingdom	June 23, 2019	1997	TV-14	5 Seasons	Action	Korean	9	63	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00092	TV Show	Hidden River 92	S. Patel	India	November 05, 2019	2003	PG-13	8 Seasons	Comedy	Hindi	8.5	54	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00093	TV Show	Last City 93	L. Brown	Germany	April 01, 2024	2006	TV-MA	2 Seasons	Sci-Fi	Spanish	8.2	83	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00094	TV Show	Shadow River 94	M. Garcia	France	July 22, 2024	2007	TV-MA	6 Seasons	Romance	Korean	6.4	44	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00095	TV Show	Shadow Dream 95	A. Smith	United States	May 22, 2021	2015	PG	7 Seasons	Sci-Fi	English	5.9	96	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00096	Movie	Broken River 96	K. Tanaka	Australia	May 11, 2022	2009	G	122 min	Action	Japanese	8.1	93	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00097	TV Show	Broken Empire 97	M. Garcia	France	July 30, 2022	2003	PG-13	1 Seasons	Documentary	Spanish	5.9	83	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00098	TV Show	Shadow Journey 98	L. Brown	Canada	February 09, 2024	2023	TV-MA	6 Seasons	Sci-Fi	English	8.2	81	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00099	Movie	Golden Dream 99	M. Garcia	India	July 27, 2018	2020	R	117 min	Documentary	Korean	6.4	95	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00100	Movie	Silent City 100	L. Brown	United Kingdom	September 07, 2021	2019	TV-14	93 min	Horror	Hindi	5.9	95	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00101	Movie	Golden Code 101	S. Patel	United States	June 24, 2019	1995	TV-14	120 min	Horror	English	6	66	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00102	Movie	Hidden Code 102	R. Kumar	France	September 18, 2018	2010	R	132 min	Documentary	Korean	5.7	90	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00103	TV Show	Shadow Journey 103	K. Tanaka	Spain	February 20, 2023	2015	G	1 Seasons	Comedy	Japanese	8.3	68	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00104	Movie	Golden City 104	J. Lee	Japan	November 27, 2018	2005	R	152 min	Romance	Japanese	9.5	73	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00105	TV Show	Shadow River 105	R. Kumar	Germany	February 02, 2023	2011	G	7 Seasons	Documentary	Japanese	7.3	54	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00106	TV Show	Last Journey 106	R. Kumar	South Korea	October 20, 2021	2021	PG-13	8 Seasons	Romance	French	6.5	49	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00107	TV Show	Shadow Journey 107	R. Kumar	South Korea	October 02, 2018	1997	TV-14	2 Seasons	Drama	Korean	9.3	75	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00108	TV Show	Broken Journey 108	A. Smith	Japan	May 16, 2019	2008	R	6 Seasons	Horror	Spanish	5.9	72	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00109	Movie	Golden City 109	S. Patel	Germany	September 26, 2019	2016	PG	136 min	Comedy	Spanish	7.8	91	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00110	TV Show	Silent River 110	L. Brown	United States	April 16, 2024	2019	TV-14	1 Seasons	Horror	French	8.5	98	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00111	TV Show	Golden Code 111	K. Tanaka	India	December 08, 2021	1995	TV-14	3 Seasons	Drama	English	8.5	53	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00112	TV Show	Golden Empire 112	L. Brown	South Korea	September 16, 2022	2009	R	6 Seasons	Comedy	English	6.1	88	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00113	Movie	Broken Journey 113	E. Martin	Australia	December 01, 2018	2003	PG-13	131 min	Thriller	Spanish	6.4	72	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00114	Movie	Hidden River 114	E. Martin	Germany	November 14, 2021	2008	G	89 min	Horror	English	6.4	78	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00115	Movie	Golden Dream 115	L. Brown	Japan	February 01, 2018	2001	PG	113 min	Comedy	English	7.5	67	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00116	Movie	Broken Dream 116	S. Patel	India	June 14, 2019	2007	PG-13	143 min	Drama	Japanese	5.6	98	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00117	Movie	Silent Journey 117	K. Tanaka	Japan	July 06, 2021	2013	TV-MA	129 min	Thriller	English	9.4	50	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00118	TV Show	Shadow Dream 118	K. Tanaka	Australia	January 22, 2022	1997	PG-13	7 Seasons	Comedy	Japanese	9	87	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00119	TV Show	Shadow Code 119	R. Kumar	Germany	June 26, 2020	2005	R	3 Seasons	Documentary	Spanish	6.9	92	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00120	Movie	Hidden Dream 120	J. Lee	Australia	August 25, 2020	1998	TV-14	93 min	Comedy	Hindi	9.3	80	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00121	TV Show	Broken Code 121	S. Patel	South Korea	March 16, 2023	2019	TV-14	8 Seasons	Sci-Fi	English	7.4	80	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00122	TV Show	Hidden Code 122	R. Kumar	Japan	January 30, 2021	2013	PG-13	1 Seasons	Sci-Fi	English	5.7	93	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00123	TV Show	Silent Code 123	K. Tanaka	France	November 11, 2018	2015	R	2 Seasons	Drama	Japanese	9.1	76	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00124	Movie	Silent Dream 124	A. Smith	France	August 09, 2021	2014	TV-MA	135 min	Romance	French	5.8	81	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00125	Movie	Last Journey 125	J. Lee	South Korea	June 10, 2018	2002	PG	165 min	Horror	Japanese	7.1	61	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00126	Movie	Shadow Code 126	K. Tanaka	Japan	October 02, 2021	1997	PG	117 min	Action	Spanish	5.8	82	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00127	Movie	Broken River 127	K. Tanaka	United Kingdom	December 03, 2021	2004	R	158 min	Comedy	Spanish	7.7	81	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00128	TV Show	Broken River 128	K. Tanaka	Germany	June 08, 2019	2016	PG	2 Seasons	Drama	Spanish	6.7	100	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00129	Movie	Golden Dream 129	J. Lee	United Kingdom	October 31, 2021	2019	TV-MA	137 min	Horror	English	7.5	74	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00130	Movie	Silent Dream 130	K. Tanaka	United Kingdom	October 11, 2021	2023	TV-14	173 min	Action	French	8.6	91	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00131	Movie	Hidden River 131	M. Garcia	France	November 28, 2022	1996	R	127 min	Horror	French	8.6	54	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00132	Movie	Last Dream 132	S. Patel	Australia	June 21, 2021	2020	PG-13	175 min	Sci-Fi	Spanish	8.6	72	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00133	TV Show	Silent Dream 133	L. Brown	United States	October 26, 2019	2021	G	4 Seasons	Sci-Fi	Spanish	7.7	46	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00134	Movie	Golden Empire 134	E. Martin	Germany	March 13, 2021	1997	TV-14	172 min	Thriller	English	9.3	54	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00135	TV Show	Last City 135	K. Tanaka	Germany	December 02, 2021	2024	PG	1 Seasons	Documentary	Japanese	9.5	63	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00136	Movie	Broken River 136	S. Patel	United Kingdom	April 26, 2018	2005	TV-14	87 min	Drama	Spanish	9.2	70	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00137	Movie	Shadow City 137	A. Smith	Japan	April 06, 2023	2009	TV-14	153 min	Action	Korean	9.3	78	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00138	TV Show	Golden Empire 138	R. Kumar	United States	April 01, 2019	2019	TV-14	5 Seasons	Thriller	French	8.7	69	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00139	Movie	Silent Code 139	A. Smith	Germany	March 31, 2019	2021	R	138 min	Documentary	French	6.1	67	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00140	Movie	Last Dream 140	R. Kumar	Germany	December 16, 2021	2002	PG	148 min	Comedy	Korean	7.7	90	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00141	Movie	Shadow River 141	K. Tanaka	South Korea	May 19, 2022	2022	PG	135 min	Drama	Spanish	8.7	62	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00142	Movie	Broken Empire 142	J. Lee	United States	March 01, 2019	2019	PG	149 min	Romance	French	6.2	89	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00143	TV Show	Golden City 143	E. Martin	United States	May 15, 2023	2015	PG	3 Seasons	Documentary	English	8.7	96	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00144	Movie	Silent Journey 144	E. Martin	Japan	July 16, 2021	2024	TV-MA	114 min	Documentary	Spanish	6.9	89	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00145	Movie	Hidden Journey 145	K. Tanaka	France	September 21, 2021	2003	PG-13	90 min	Romance	Hindi	7.5	71	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00146	TV Show	Broken Journey 146	R. Kumar	Spain	October 28, 2023	2003	R	2 Seasons	Action	Korean	6.7	46	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00147	Movie	Hidden Journey 147	K. Tanaka	United Kingdom	September 05, 2021	2016	G	112 min	Sci-Fi	Spanish	7.3	86	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00148	TV Show	Shadow River 148	K. Tanaka	South Korea	November 17, 2022	2003	R	1 Seasons	Action	English	6.1	78	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00149	TV Show	Golden River 149	S. Patel	South Korea	May 23, 2018	1999	PG-13	2 Seasons	Drama	Korean	6.1	68	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00150	TV Show	Silent Dream 150	S. Patel	Spain	March 04, 2022	2009	PG	2 Seasons	Horror	Hindi	9.3	41	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00151	Movie	Silent City 151	L. Brown	Japan	August 07, 2023	2011	G	124 min	Sci-Fi	Hindi	9.5	58	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00152	TV Show	Shadow Journey 152	J. Lee	France	March 30, 2020	1998	TV-MA	3 Seasons	Romance	French	6.9	44	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00153	TV Show	Broken River 153	J. Lee	South Korea	May 13, 2021	2022	R	3 Seasons	Documentary	English	9.4	90	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00154	Movie	Shadow Empire 154	S. Patel	France	August 27, 2020	2020	R	138 min	Action	Korean	9	44	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00155	TV Show	Silent Journey 155	K. Tanaka	Australia	June 19, 2022	2017	TV-MA	8 Seasons	Action	Spanish	8.1	68	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00156	TV Show	Silent River 156	J. Lee	United Kingdom	October 21, 2023	2006	PG-13	3 Seasons	Drama	English	7.6	59	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00157	Movie	Golden Empire 157	L. Brown	India	October 26, 2019	2005	PG	165 min	Documentary	French	9.3	57	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00158	Movie	Shadow Code 158	J. Lee	Australia	May 25, 2021	2014	R	143 min	Action	Hindi	8.1	86	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00159	TV Show	Shadow City 159	L. Brown	Canada	April 27, 2024	1996	R	1 Seasons	Thriller	Korean	8.1	71	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00160	TV Show	Broken Journey 160	L. Brown	France	May 22, 2021	2010	TV-MA	4 Seasons	Drama	Hindi	7.3	70	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00161	TV Show	Hidden River 161	S. Patel	South Korea	April 15, 2020	2005	PG-13	3 Seasons	Action	Spanish	7.6	46	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00162	TV Show	Hidden Journey 162	M. Garcia	United Kingdom	September 17, 2020	2009	TV-MA	2 Seasons	Drama	Spanish	9.3	95	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00163	TV Show	Hidden Code 163	S. Patel	Canada	October 13, 2020	2022	TV-14	3 Seasons	Sci-Fi	Korean	7.4	96	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00164	TV Show	Last Code 164	E. Martin	Canada	July 31, 2023	1995	TV-14	2 Seasons	Romance	English	5.7	71	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00165	TV Show	Shadow Journey 165	J. Lee	Japan	March 16, 2021	2012	G	1 Seasons	Romance	Japanese	7	65	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00166	Movie	Hidden Code 166	L. Brown	India	May 24, 2024	2012	PG-13	99 min	Sci-Fi	Korean	6.6	79	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00167	Movie	Hidden Empire 167	S. Patel	United Kingdom	June 12, 2019	1998	TV-14	125 min	Thriller	Korean	5.7	42	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00168	Movie	Silent Journey 168	J. Lee	Australia	September 26, 2021	2020	R	135 min	Action	Spanish	9.2	60	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00169	Movie	Hidden Code 169	S. Patel	Germany	May 29, 2022	2014	R	169 min	Sci-Fi	French	7.8	70	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00170	Movie	Shadow Journey 170	L. Brown	United States	February 17, 2022	2005	R	161 min	Sci-Fi	Spanish	9.4	90	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00171	Movie	Golden Code 171	K. Tanaka	United Kingdom	July 30, 2018	2013	G	136 min	Documentary	English	7.8	84	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00172	Movie	Hidden Journey 172	J. Lee	Spain	February 21, 2020	1995	G	131 min	Documentary	Japanese	7.5	79	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00173	TV Show	Silent Dream 173	S. Patel	France	September 13, 2018	2017	R	3 Seasons	Thriller	Spanish	9.3	69	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00174	TV Show	Silent Journey 174	M. Garcia	Canada	February 16, 2024	2006	PG	5 Seasons	Horror	Hindi	9.3	59	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00175	TV Show	Hidden Journey 175	S. Patel	Germany	April 29, 2020	2017	G	8 Seasons	Horror	Spanish	6	83	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00176	TV Show	Golden Empire 176	A. Smith	Japan	June 05, 2022	2021	G	6 Seasons	Comedy	Spanish	9.2	81	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00177	TV Show	Silent Empire 177	L. Brown	United Kingdom	May 17, 2023	2001	TV-MA	4 Seasons	Documentary	Hindi	5.7	97	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00178	Movie	Last Empire 178	E. Martin	India	August 11, 2020	1996	G	87 min	Action	English	9.4	99	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00179	Movie	Last River 179	M. Garcia	Japan	July 25, 2022	2015	PG	135 min	Horror	French	5.7	89	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00180	Movie	Broken River 180	A. Smith	United Kingdom	June 09, 2024	2002	PG-13	143 min	Action	English	9.5	65	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00181	TV Show	Shadow City 181	L. Brown	Australia	February 03, 2020	2024	R	5 Seasons	Comedy	Spanish	6.6	81	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00182	TV Show	Hidden Dream 182	R. Kumar	South Korea	July 04, 2019	2022	TV-14	8 Seasons	Sci-Fi	French	6.5	51	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00183	Movie	Silent River 183	M. Garcia	United Kingdom	October 12, 2021	2020	R	112 min	Thriller	Japanese	7.6	45	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00184	TV Show	Last Empire 184	M. Garcia	United States	January 26, 2019	2000	PG	3 Seasons	Thriller	Hindi	7.3	57	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00185	TV Show	Hidden River 185	S. Patel	Canada	May 21, 2021	2013	TV-MA	1 Seasons	Comedy	Japanese	6.7	65	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00186	TV Show	Hidden Code 186	M. Garcia	Canada	April 26, 2019	2015	TV-14	5 Seasons	Sci-Fi	Hindi	7.3	78	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00187	TV Show	Silent River 187	M. Garcia	Canada	August 31, 2022	2017	G	8 Seasons	Comedy	Korean	7.3	85	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00188	TV Show	Shadow Code 188	M. Garcia	Australia	November 16, 2018	2024	R	2 Seasons	Action	Hindi	6.8	73	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00189	TV Show	Broken Code 189	E. Martin	India	April 22, 2019	2016	R	4 Seasons	Sci-Fi	English	7.3	72	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00190	TV Show	Silent Journey 190	L. Brown	United States	February 15, 2023	2013	PG-13	1 Seasons	Horror	English	8.5	77	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00191	Movie	Broken City 191	A. Smith	India	July 05, 2018	2008	PG-13	119 min	Drama	Spanish	7.1	89	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00192	Movie	Last Journey 192	K. Tanaka	India	September 18, 2022	2006	G	123 min	Action	French	8.9	47	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00193	Movie	Golden River 193	M. Garcia	United States	January 10, 2024	2007	TV-MA	142 min	Horror	Japanese	8.2	74	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00194	TV Show	Golden Journey 194	S. Patel	United Kingdom	December 19, 2023	2007	PG	4 Seasons	Documentary	French	8.6	42	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00195	TV Show	Shadow City 195	A. Smith	France	March 06, 2018	2002	R	4 Seasons	Drama	Hindi	8.5	65	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00196	TV Show	Shadow Dream 196	L. Brown	Canada	August 17, 2020	2012	G	4 Seasons	Romance	Korean	7.9	83	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00197	TV Show	Broken Code 197	M. Garcia	Spain	August 28, 2020	2004	PG	3 Seasons	Horror	English	7.7	77	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00198	Movie	Shadow Empire 198	K. Tanaka	Germany	October 16, 2022	2012	PG	138 min	Thriller	Japanese	6.1	64	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00199	Movie	Golden Empire 199	J. Lee	France	January 13, 2024	2010	TV-MA	105 min	Thriller	Japanese	7.7	48	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00200	TV Show	Hidden River 200	R. Kumar	France	September 21, 2020	2003	PG	4 Seasons	Comedy	Korean	8.4	52	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00201	Movie	Silent Code 201	A. Smith	India	January 04, 2021	2007	TV-14	161 min	Documentary	Japanese	6.3	98	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00202	TV Show	Golden Dream 202	R. Kumar	France	May 26, 2021	2024	TV-14	1 Seasons	Documentary	Japanese	9.2	75	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00203	TV Show	Silent River 203	S. Patel	Japan	March 05, 2021	2007	PG	8 Seasons	Romance	Korean	9	69	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00204	Movie	Golden Empire 204	S. Patel	Spain	April 08, 2023	2019	TV-MA	115 min	Documentary	French	6.1	56	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00205	TV Show	Hidden Dream 205	K. Tanaka	Australia	April 24, 2021	1999	TV-14	4 Seasons	Sci-Fi	Korean	8.1	83	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00206	TV Show	Broken River 206	E. Martin	France	November 20, 2020	2019	TV-14	8 Seasons	Romance	Hindi	6.1	74	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00207	TV Show	Silent City 207	R. Kumar	United States	January 24, 2020	2024	TV-MA	1 Seasons	Thriller	Hindi	8.9	54	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00208	Movie	Silent Journey 208	S. Patel	United States	September 11, 2019	1995	R	102 min	Sci-Fi	French	7.5	40	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00209	TV Show	Silent Empire 209	A. Smith	Germany	February 18, 2018	1995	G	5 Seasons	Thriller	Hindi	5.9	46	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00210	Movie	Silent Empire 210	S. Patel	Japan	September 14, 2020	2001	PG-13	154 min	Comedy	Spanish	9.3	69	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00211	Movie	Shadow River 211	A. Smith	India	July 14, 2020	2004	PG-13	162 min	Thriller	Japanese	7.7	43	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00212	Movie	Last River 212	S. Patel	Australia	December 03, 2019	1997	TV-MA	138 min	Drama	Hindi	6.3	95	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00213	TV Show	Broken Empire 213	A. Smith	United Kingdom	January 15, 2021	1996	PG	2 Seasons	Drama	Hindi	7.8	88	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00214	TV Show	Silent Dream 214	K. Tanaka	Germany	November 12, 2018	2004	PG	3 Seasons	Thriller	French	6.1	84	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00215	Movie	Shadow City 215	K. Tanaka	Canada	August 14, 2023	2018	TV-MA	119 min	Romance	Korean	8.6	78	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00216	TV Show	Last Journey 216	M. Garcia	South Korea	August 29, 2021	1995	R	5 Seasons	Thriller	Japanese	6.2	77	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00217	TV Show	Golden River 217	R. Kumar	India	December 18, 2018	2019	PG	5 Seasons	Action	Japanese	8.3	80	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00218	Movie	Shadow City 218	A. Smith	Japan	May 15, 2022	2005	PG-13	121 min	Romance	Spanish	5.9	45	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00219	Movie	Silent Code 219	K. Tanaka	India	November 01, 2022	2009	TV-MA	146 min	Comedy	Spanish	7.7	78	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00220	TV Show	Last Journey 220	R. Kumar	Germany	April 27, 2022	1995	TV-14	5 Seasons	Action	French	7	48	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00221	TV Show	Golden City 221	J. Lee	Spain	May 18, 2021	2003	PG	8 Seasons	Thriller	Spanish	7.4	44	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00222	TV Show	Silent Code 222	M. Garcia	France	October 27, 2020	2002	TV-MA	8 Seasons	Action	Spanish	5.5	65	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00223	TV Show	Last Empire 223	K. Tanaka	Australia	April 06, 2022	2020	TV-14	6 Seasons	Horror	Spanish	7.9	84	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00224	Movie	Last Empire 224	L. Brown	France	May 17, 2023	2005	R	97 min	Documentary	Spanish	7	92	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00225	TV Show	Silent Code 225	J. Lee	Germany	February 04, 2022	1998	TV-MA	4 Seasons	Sci-Fi	French	6.3	91	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00226	TV Show	Broken Journey 226	J. Lee	Japan	October 11, 2018	2021	TV-14	7 Seasons	Horror	French	6.1	67	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00227	TV Show	Silent Journey 227	K. Tanaka	Germany	October 30, 2018	2009	TV-MA	8 Seasons	Romance	French	9.1	74	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00228	Movie	Broken River 228	S. Patel	United Kingdom	March 24, 2019	2019	G	106 min	Drama	Korean	9.4	83	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00229	TV Show	Shadow City 229	R. Kumar	Japan	September 20, 2021	2020	TV-14	7 Seasons	Documentary	Japanese	7	69	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00230	Movie	Shadow Empire 230	K. Tanaka	India	November 13, 2021	1995	TV-MA	136 min	Action	Spanish	6.7	69	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00231	Movie	Last City 231	E. Martin	France	November 05, 2023	2010	PG	119 min	Comedy	Spanish	5.7	85	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00232	Movie	Broken City 232	J. Lee	Canada	April 03, 2018	2022	R	118 min	Action	Korean	6.1	75	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00233	TV Show	Broken Dream 233	J. Lee	Spain	March 08, 2023	2002	PG-13	7 Seasons	Drama	French	8	52	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00234	TV Show	Shadow River 234	M. Garcia	Canada	August 22, 2024	2008	PG	7 Seasons	Comedy	Korean	5.9	95	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00235	Movie	Last City 235	L. Brown	France	February 07, 2022	2005	R	100 min	Romance	Korean	7.1	65	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00236	Movie	Silent Dream 236	L. Brown	Australia	November 26, 2021	2006	R	133 min	Comedy	French	6	47	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00237	Movie	Hidden River 237	J. Lee	Germany	June 04, 2021	1998	PG-13	98 min	Thriller	Korean	6.1	64	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00238	TV Show	Silent Dream 238	E. Martin	Japan	January 31, 2020	2010	TV-14	3 Seasons	Action	Spanish	8.9	79	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00239	Movie	Golden Dream 239	K. Tanaka	Germany	January 10, 2022	1995	R	137 min	Sci-Fi	Japanese	8.2	66	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00240	TV Show	Silent City 240	M. Garcia	Japan	June 25, 2023	2000	TV-MA	2 Seasons	Horror	Hindi	7.7	50	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00241	TV Show	Silent Code 241	R. Kumar	Australia	May 05, 2024	2018	TV-MA	8 Seasons	Horror	Korean	8.8	63	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00242	Movie	Last City 242	M. Garcia	Japan	December 13, 2022	2012	TV-MA	102 min	Sci-Fi	Spanish	6.9	92	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00243	Movie	Golden Dream 243	S. Patel	Australia	December 04, 2022	2022	G	90 min	Thriller	Hindi	8	90	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00244	Movie	Silent Empire 244	L. Brown	Australia	April 27, 2020	2020	R	82 min	Action	Spanish	9.4	58	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00245	TV Show	Golden Journey 245	A. Smith	Japan	June 03, 2024	2003	G	2 Seasons	Action	French	9	55	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00246	Movie	Broken Journey 246	E. Martin	United Kingdom	August 12, 2021	2021	R	106 min	Horror	French	7.2	68	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00247	Movie	Broken Empire 247	S. Patel	France	January 17, 2019	2007	PG-13	140 min	Romance	Korean	5.5	89	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00248	Movie	Broken Empire 248	R. Kumar	Germany	February 21, 2023	2015	PG-13	160 min	Documentary	Japanese	8.8	71	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00249	TV Show	Hidden Code 249	J. Lee	Australia	August 15, 2021	2021	PG-13	5 Seasons	Romance	French	8.5	42	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
+s00250	Movie	Golden Journey 250	E. Martin	United States	February 26, 2023	1995	PG-13	90 min	Documentary	French	9.1	96	A fictional Netflix-style title created for SQL and dashboard portfolio projects.
