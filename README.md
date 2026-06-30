@@ -157,7 +157,8 @@ Increase family-friendly programming to broaden Netflix's audience beyond mature
 
 ## Dashboard preview 
 
-<img width="985" height="1800" alt="Image 30-06-2026 at 22 03" src="https://github.com/user-attachments/assets/8f57daff-bffb-44b7-be2c-ba7cf9d4452f" />
+<img width="968" height="1523" alt="Image 30-06-2026 at 22 17" src="https://github.com/user-attachments/assets/54da15c1-b1f0-4eec-a869-7bb01482347b" />
+
 
 
 
