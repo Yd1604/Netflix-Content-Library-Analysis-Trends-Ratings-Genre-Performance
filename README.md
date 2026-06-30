@@ -1,54 +1,46 @@
-
-
-# 🎬 Netflix Content Analysis using SQL & Looker Studio Analysing trends, Ratings and genre performance
+# 🎬 Netflix Content Library Analysis using SQL & Looker Studio
 
 ## Project Overview
 
-This project explores Netflix's content library using **SQL in Google BigQuery** and presents the findings through an interactive **Looker Studio dashboard**.
+This project analyses a Netflix content dataset using **Google BigQuery** for SQL analysis and **Looker Studio** for interactive dashboard visualisation.
 
-The objective of the project is to analyze Netflix's content distribution, identify trends across movies and TV shows, and provide business insights that can support content strategy and decision-making.
+The objective of this project is to explore Netflix's content library, identify trends across movies and TV shows, analyse genre and country distribution, evaluate IMDb ratings, and provide business recommendations based on the insights obtained.
 
 
 
-## Business Problem
+# Business Problem
 
-As a Data Analyst, the goal is to help the Content Strategy team understand Netflix's content portfolio by answering key business questions such as:
+Streaming platforms rely on data-driven insights to understand their content portfolio and improve viewer engagement.
+
+The goal of this analysis is to answer key business questions such as:
 
 - How many movies and TV shows are available?
-- Which countries contribute the most content?
-- Which genres are the most popular?
-- How has Netflix's content library grown over time?
+- Which genres dominate the content library?
+- Which countries contribute the most to Netflix content?
 - Which content ratings are most common?
 - Which directors have produced the highest number of titles?
+- Which genres receive the highest IMDb ratings?
+- How has Netflix's content library evolved?
 
-The analysis helps identify content trends and provides recommendations to support future investment and content acquisition strategies.
 
+# Dataset
 
+**Dataset:** Netflix Content Library Dataset
 
-## Dataset
+The dataset contains **250 Netflix titles** with the following information:
 
-This project uses a **Netflix-style dataset** containing information about movies and TV shows.
-
-The dataset includes:
-
-- Show ID
 - Content Type (Movie / TV Show)
 - Title
 - Director
 - Country
-- Date Added
-- Release Year
-- Rating
-- Duration
 - Genre
-- Language
+- Content Rating
+- Release Year
+- Date Added
 - IMDb Score
-- Popularity Score
-- Description
 
 
-
-## Tools Used
+# Tools Used
 
 - Google BigQuery
 - SQL
@@ -57,23 +49,41 @@ The dataset includes:
 
 
 
-## SQL Analysis
+# Dashboard Overview
 
-SQL queries were used to answer key business questions, including:
+The interactive dashboard includes:
 
-- Total number of content titles
+- Total Content
+- Total Movies
+- Total TV Shows
+- Average IMDb Score
+- Movies vs TV Shows Distribution
+- Content Ratings
+- Top Genres
+- Average IMDb Score by Genre
+- Top Directors
+- Top Content Producing Countries
+- Netflix Content Growth Over Time
+
+
+
+# SQL Analysis
+
+SQL queries were written to answer important business questions, including:
+
+- Total number of titles
 - Movies vs TV Shows
-- Top producing countries
+- Top countries producing Netflix content
 - Most popular genres
-- Content distribution by release year
-- Content ratings
+- Content ratings distribution
 - Top directors
 - Average IMDb score by genre
+- Content growth over time
 
 ### SQL Concepts Used
 
 - SELECT
-- WHERE
+- FROM
 - GROUP BY
 - ORDER BY
 - COUNT()
@@ -83,32 +93,85 @@ SQL queries were used to answer key business questions, including:
 
 
 
-## Dashboard
+# Key Findings
 
-The dashboard was developed in **Looker Studio** to provide an interactive overview of Netflix's content library.
+The analysis revealed several interesting content trends:
 
-### Dashboard Includes
+### Movies vs TV Shows
 
-- Total Content
-- Total Movies
-- Total TV Shows
-- Average IMDb Rating
-- Movies vs TV Shows
-- Top Countries
-- Top Genres
-- Content by Release Year
-- Content Ratings
-- Top Directors
-- Average IMDb Rating by Genre
+- TV Shows represent **55.6%** of the content library while Movies account for **44.4%**, indicating a slightly larger investment in television content.
+
+### Top Content Producing Countries
+
+- Japan contributes the highest number of titles in this dataset, followed by the United Kingdom, France and Germany.
+
+### Most Common Genres
+
+- Action and Documentary are the most frequently occurring genres across the content library.
+
+### IMDb Ratings
+
+- Drama and Action genres have the highest average IMDb scores, suggesting stronger audience reception compared to other genres.
+
+### Top Directors
+
+- A small number of directors contribute multiple titles, indicating recurring partnerships with successful creators.
+
+### Content Ratings
+
+- TV-MA dominates TV Shows while "R" is the most common rating among Movies, indicating Netflix primarily targets mature audiences.
+
+### Content Growth
+
+- Netflix's content production has increased steadily over recent years, reflecting continued investment in expanding the content library.
 
 
 
-## Key Findings
+# Business Recommendations
 
-The analysis identified several interesting content trends:
+Based on the analysis, the following recommendations are suggested:
 
-- Movies make up the majority of Netflix's content library.
-- The United States contributes the largest number of titles, followed by other major content-producing countries.
-- Drama and Comedy are among the most frequently available genres.
-- Netflix's content library has grown significantly over recent years.
-- TV-MA is the most common content rating, indicating a strong focus
+### Content Strategy
+
+Continue investing in original TV Shows while maintaining a balanced portfolio of high-performing Movies and Documentaries.
+
+### Global Expansion
+
+Increase content acquisition from emerging markets to diversify the content catalogue and attract a broader international audience.
+
+### Genre Investment
+
+Continue investing in highly popular genres such as Action and Documentary while exploring niche genres to improve catalogue diversity.
+
+### High Quality Content
+
+Prioritise investment in genres with higher IMDb ratings, particularly Drama and Action, to maximise audience satisfaction.
+
+### Director Partnerships
+
+Strengthen partnerships with successful directors while identifying emerging creative talent to maintain content innovation.
+
+### Audience Expansion
+
+Increase family-friendly programming to broaden Netflix's audience beyond mature viewers.
+
+
+
+# Skills Demonstrated
+
+- SQL Data Analysis
+- Google BigQuery
+- Data Aggregation
+- KPI Reporting
+- Dashboard Development
+- Data Visualization
+- Business Analytics
+- Business Recommendations
+- Data Storytelling
+- Looker Studio
+- GitHub Documentation
+
+
+# Project Outcome
+
+This project demonstrates an end-to-end data analytics workflow—from importing raw data into Google BigQuery, performing SQL analysis, creating interactive dashboards in Looker Studio, and translating analytical findings into actionable business recommendations.
